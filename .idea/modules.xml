@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SocketIoService/SocketIoService.iml" filepath="$PROJECT_DIR$/.idea/modules/SocketIoService/SocketIoService.iml" group="YCSocketIoHelper/SocketIoService" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WebSocketService/WebSocketService.iml" filepath="$PROJECT_DIR$/.idea/modules/WebSocketService/WebSocketService.iml" group="YCSocketIoHelper/WebSocketService" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/YCSocketIoHelper.iml" filepath="$PROJECT_DIR$/.idea/modules/YCSocketIoHelper.iml" group="YCSocketIoHelper" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="YCSocketIoHelper/app" />
+    </modules>
+  </component>
+</project>
